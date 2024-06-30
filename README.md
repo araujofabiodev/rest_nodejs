@@ -1,3 +1,8 @@
+**Projeto:** Sistema de Gerenciamento de Produtos
+- Descrição: Uma API que permite CRUD (Create, Read, Update, Delete) de produtos,
+conectando-se a um banco de dados MySQL usando Express.
+
+
 Instalação:
 
 npm i express
